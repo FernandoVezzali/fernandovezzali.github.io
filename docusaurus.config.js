@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Vezzali',
   tagline: 'Beyond coding',
-  A curated list of awesome C-Sharp features and best practices url: 'https://fernandovezzali.github.io/',
+  url: 'https://fernandovezzali.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
