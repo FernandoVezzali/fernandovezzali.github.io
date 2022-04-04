@@ -10,9 +10,6 @@ install yarn globally:
 npm install --global yarn
 ```
 
-
-
-
 ### Local Development
 
 ```
