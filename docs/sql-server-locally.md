@@ -4,44 +4,25 @@ sidebar_position: 4
 
 # Running SQL Server locally
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
 ## Getting Started
 
-Get started by **creating a new site**.
+We're going to install SQL Server locally using Docker
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
+## Pulling the image
 
 ```bash
-npm init docusaurus@latest my-website classic
+docker pull mcr.microsoft.com/mssql/server:2019-latest
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Running SQL Server
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
+The user is `sa`.
+The password is `sql@Pass13`, but you can change it.
 
 ```bash
-cd my-website
-npm run start
+docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=sql@Pass13" -p 1401:1433 -d --name=sql_server mcr.microsoft.com/mssql/server:2019-latest
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## SSMS
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+![SQL Server Management Studio](/img/tutorial/ssms.png)
