@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator..
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
@@ -8,6 +8,10 @@ install yarn globally:
 
 ```
 npm install --global yarn
+```
+
+```
+npm install
 ```
 
 ### Local Development
