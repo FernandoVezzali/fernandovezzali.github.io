@@ -14,6 +14,11 @@ npm install --global yarn
 npm install
 ```
 
+### NVM for Windows
+
+https://github.com/coreybutler/nvm-windows
+
+
 ### Local Development
 
 ```
