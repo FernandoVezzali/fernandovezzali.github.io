@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\repos\\fernandovezzali.github.io\\sidebars.js",
-          "contentPath": "D:\\repos\\fernandovezzali.github.io\\docs",
-          "contentPathLocalized": "D:\\repos\\fernandovezzali.github.io\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\repos\\fernandovezzali.github.io\\sidebars.js",
+          "contentPath": "C:\\repos\\fernandovezzali.github.io\\docs",
+          "contentPathLocalized": "C:\\repos\\fernandovezzali.github.io\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "behavioral-design-patterns/strategy-patterns",

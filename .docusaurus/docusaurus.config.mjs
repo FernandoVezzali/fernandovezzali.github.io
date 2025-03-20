@@ -20,7 +20,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\repos\\fernandovezzali.github.io\\sidebars.js",
+          "sidebarPath": "C:\\repos\\fernandovezzali.github.io\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -28,7 +28,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "D:\\repos\\fernandovezzali.github.io\\src\\css\\custom.css"
+          "customCss": "C:\\repos\\fernandovezzali.github.io\\src\\css\\custom.css"
         }
       }
     ]
@@ -103,7 +103,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

@@ -60,3 +60,17 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+### Node
+
+Installing a new version
+
+```
+nvm install 18.20.7
+```
+
+Change to new version
+
+```
+nvm use 18.20.7
+```
