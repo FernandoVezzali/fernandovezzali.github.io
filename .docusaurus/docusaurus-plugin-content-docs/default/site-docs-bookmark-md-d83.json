@@ -1,0 +1,23 @@
+{
+  "unversionedId": "bookmark",
+  "id": "bookmark",
+  "title": "Bookmark",
+  "description": "AI Related",
+  "source": "@site/docs/bookmark.md",
+  "sourceDirName": ".",
+  "slug": "/bookmark",
+  "permalink": "/docs/bookmark",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bookmark.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Running SQL Server locally",
+    "permalink": "/docs/sql-server-locally"
+  }
+}

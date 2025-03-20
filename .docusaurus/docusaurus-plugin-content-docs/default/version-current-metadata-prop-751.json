@@ -80,12 +80,6 @@
         "docId": "intro"
       },
       {
-        "type": "link",
-        "label": "Running SQL Server locally",
-        "href": "/docs/sql-server-locally",
-        "docId": "sql-server-locally"
-      },
-      {
         "type": "category",
         "label": "Tutorial - Extras",
         "collapsible": true,
@@ -104,6 +98,18 @@
             "docId": "tutorial-extras/translate-your-site"
           }
         ]
+      },
+      {
+        "type": "link",
+        "label": "Running SQL Server locally",
+        "href": "/docs/sql-server-locally",
+        "docId": "sql-server-locally"
+      },
+      {
+        "type": "link",
+        "label": "Bookmark",
+        "href": "/docs/bookmark",
+        "docId": "bookmark"
       }
     ]
   },
@@ -112,6 +118,12 @@
       "id": "behavioral-design-patterns/strategy-patterns",
       "title": "The Strategy Pattern",
       "description": "Simple exercise where we are going to apply The Strategy Pattern in a small C# application.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bookmark": {
+      "id": "bookmark",
+      "title": "Bookmark",
+      "description": "AI Related",
       "sidebar": "tutorialSidebar"
     },
     "design-patterns": {

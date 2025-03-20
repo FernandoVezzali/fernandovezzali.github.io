@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Running SQL Server locally",
-    "permalink": "/docs/sql-server-locally"
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Translate your site",

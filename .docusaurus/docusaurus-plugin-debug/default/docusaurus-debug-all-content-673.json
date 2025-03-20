@@ -47,6 +47,29 @@
               }
             },
             {
+              "unversionedId": "bookmark",
+              "id": "bookmark",
+              "title": "Bookmark",
+              "description": "AI Related",
+              "source": "@site/docs/bookmark.md",
+              "sourceDirName": ".",
+              "slug": "/bookmark",
+              "permalink": "/docs/bookmark",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bookmark.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Running SQL Server locally",
+                "permalink": "/docs/sql-server-locally"
+              }
+            },
+            {
               "unversionedId": "design-patterns",
               "id": "design-patterns",
               "title": "Design Patterns",
@@ -92,8 +115,8 @@
                 "permalink": "/docs/tutorial-basics/congratulations"
               },
               "next": {
-                "title": "Running SQL Server locally",
-                "permalink": "/docs/sql-server-locally"
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/tutorial-extras/manage-docs-versions"
               }
             },
             {
@@ -109,18 +132,18 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sql-server-locally.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial Intro",
-                "permalink": "/docs/intro"
+                "title": "Translate your site",
+                "permalink": "/docs/tutorial-extras/translate-your-site"
               },
               "next": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "title": "Bookmark",
+                "permalink": "/docs/bookmark"
               }
             },
             {
@@ -304,8 +327,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Running SQL Server locally",
-                "permalink": "/docs/sql-server-locally"
+                "title": "Tutorial Intro",
+                "permalink": "/docs/intro"
               },
               "next": {
                 "title": "Translate your site",
@@ -333,6 +356,10 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/docs/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "Running SQL Server locally",
+                "permalink": "/docs/sql-server-locally"
               }
             }
           ],
@@ -392,10 +419,6 @@
                 "id": "intro"
               },
               {
-                "type": "doc",
-                "id": "sql-server-locally"
-              },
-              {
                 "type": "category",
                 "label": "Tutorial - Extras",
                 "collapsible": true,
@@ -410,6 +433,14 @@
                     "id": "tutorial-extras/translate-your-site"
                   }
                 ]
+              },
+              {
+                "type": "doc",
+                "id": "sql-server-locally"
+              },
+              {
+                "type": "doc",
+                "id": "bookmark"
               }
             ]
           }

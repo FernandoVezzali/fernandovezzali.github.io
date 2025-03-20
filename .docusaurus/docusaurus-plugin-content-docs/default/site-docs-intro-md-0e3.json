@@ -21,7 +21,7 @@
     "permalink": "/docs/tutorial-basics/congratulations"
   },
   "next": {
-    "title": "Running SQL Server locally",
-    "permalink": "/docs/sql-server-locally"
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/tutorial-extras/manage-docs-versions"
   }
 }

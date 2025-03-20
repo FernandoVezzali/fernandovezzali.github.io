@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "bookmark",
+              "path": "/docs/bookmark",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "design-patterns",
               "path": "/docs/design-patterns",
               "sidebar": "tutorialSidebar"
