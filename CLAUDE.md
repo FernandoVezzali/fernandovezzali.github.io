@@ -7,7 +7,7 @@
 - `npm run typecheck`: Run TypeScript type checking
 - `npm run clear`: Clear cache
 - `npm run swizzle`: Customize Docusaurus components
-- `npm run deploy`: Deploy to GitHub Pages
+- `npm run deploy`: Deploy to GitHub Pages (requires Node.js 18.20.7)
 
 ## Code Style Guidelines
 - **TypeScript**: Use TypeScript for all components and pages
