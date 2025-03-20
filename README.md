@@ -74,3 +74,7 @@ Change to new version
 ```
 nvm use 18.20.7
 ```
+
+### docusaurus upgrade
+
+https://docusaurus.io/docs/migration/v3
