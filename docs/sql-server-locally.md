@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Running SQL Server locally
@@ -25,4 +25,4 @@ docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=sql@Pass13" -p 1401:1433 -d 
 
 ## SSMS
 
-![SQL Server Management Studio](/img/tutorial/ssms.png)
+![SQL Server Management Studio](../static/img/tutorial/ssms.png)
