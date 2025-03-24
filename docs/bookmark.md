@@ -9,6 +9,7 @@ sidebar_position: 6
 - [Anthropic](https://www.anthropic.com/)
 - [Claude](https://claude.ai/new)
 - [Smithery](https://smithery.ai/) MCP Server
+- [MCP Hello World](https://github.com/lucasmontano/mcp-montano-server)
 
 ## AI Reference Material
 
