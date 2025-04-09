@@ -11,6 +11,12 @@ sidebar_position: 6
 - [Smithery](https://smithery.ai/) MCP Server
 - [MCP Hello World](https://github.com/lucasmontano/mcp-montano-server)
 
+### Playwright MCP
+
+- https://www.youtube.com/watch?v=g0Zy5FNPU4A
+- https://github.com/microsoft/playwright-mcp
+- https://playwright.dev/docs/intro
+
 ## AI Reference Material
 
 - https://smithery.ai/server/@ErickWendel/erickwendel-contributions-mcp
