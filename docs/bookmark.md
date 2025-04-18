@@ -10,6 +10,7 @@ sidebar_position: 6
 - [Claude](https://claude.ai/new)
 - [Smithery](https://smithery.ai/) MCP Server
 - [MCP Hello World](https://github.com/lucasmontano/mcp-montano-server)
+- [Claude Code Can Decompile](https://ghuntley.com/tradecraft/)
 
 ### Playwright MCP
 
