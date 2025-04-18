@@ -25,3 +25,5 @@ sidebar_position: 6
 - https://www.youtube.com/watch?v=6g2jAFhZekw
 - https://www.youtube.com/watch?v=6g2jAFhZekw
 
+## System design
+- https://www.adhamdannaway.com/blog/design-systems/design-system-examples
