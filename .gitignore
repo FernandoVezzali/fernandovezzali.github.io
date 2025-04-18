@@ -20,3 +20,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.docusaurus/client-manifest.json
+.docusaurus/registry.js
+.docusaurus/routes.js
+.docusaurus/site-metadata.json
+.docusaurus/routes.js
