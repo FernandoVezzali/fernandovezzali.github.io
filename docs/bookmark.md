@@ -32,3 +32,6 @@ sidebar_position: 6
 
 ## System design
 - https://www.adhamdannaway.com/blog/design-systems/design-system-examples
+
+## Security
+- https://tigerabrodi.blog/how-to-store-external-api-keys-securely
