@@ -8,9 +8,14 @@ sidebar_position: 6
 
 - [Anthropic](https://www.anthropic.com/)
 - [Claude](https://claude.ai/new)
+- [Claude Code Can Decompile](https://ghuntley.com/tradecraft/)
+
+## MCP Related
+
 - [Smithery](https://smithery.ai/) MCP Server
 - [MCP Hello World](https://github.com/lucasmontano/mcp-montano-server)
-- [Claude Code Can Decompile](https://ghuntley.com/tradecraft/)
+- [mcp.so Git Repo](https://github.com/chatmcp/mcp-directory)
+- [mcp.so Site](https://mcp.so/)
 
 ### Playwright MCP
 
