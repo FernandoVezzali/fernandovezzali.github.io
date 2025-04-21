@@ -9,6 +9,7 @@ sidebar_position: 6
 - [Anthropic](https://www.anthropic.com/)
 - [Claude](https://claude.ai/new)
 - [Claude Code Can Decompile](https://ghuntley.com/tradecraft/)
+- [Codex](https://github.com/openai/codex)
 
 ## MCP Related
 
