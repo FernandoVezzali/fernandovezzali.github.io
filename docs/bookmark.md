@@ -15,6 +15,7 @@ sidebar_position: 6
 
 - [Smithery](https://smithery.ai/) MCP Server
 - [MCP Hello World](https://github.com/lucasmontano/mcp-montano-server)
+- [mcp server in csharp](https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp)
 - [mcp.so Git Repo](https://github.com/chatmcp/mcp-directory)
 - [mcp.so Site](https://mcp.so/)
 
