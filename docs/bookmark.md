@@ -34,6 +34,11 @@ sidebar_position: 6
 
 ## System design
 - https://www.adhamdannaway.com/blog/design-systems/design-system-examples
+- https://www.reactbits.dev/
 
 ## Security
 - https://tigerabrodi.blog/how-to-store-external-api-keys-securely
+
+## Object Calisthenics
+- https://medium.com/@rafaelcruz_48213/desenvolva-um-c%C3%B3digo-melhor-com-object-calisthenics-d5364767a9ba
+- https://www.youtube.com/watch?v=pW9Bb4PteWU
