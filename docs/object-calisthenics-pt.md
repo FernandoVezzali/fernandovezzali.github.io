@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Object Calisthenics em C#
+# Object Calisthenics em CSharp
 
 Este documento apresenta exemplos em **C#** que demonstram a **violação** e a **correta aplicação** de cada uma das 9 regras do Object Calisthenics.
 
