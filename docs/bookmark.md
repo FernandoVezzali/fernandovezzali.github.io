@@ -43,3 +43,6 @@ sidebar_position: 6
 ## Object Calisthenics
 - https://medium.com/@rafaelcruz_48213/desenvolva-um-c%C3%B3digo-melhor-com-object-calisthenics-d5364767a9ba
 - https://www.youtube.com/watch?v=pW9Bb4PteWU
+
+## Portfolios
+- https://masri.blog/Blog/Coding/Potfolios/Collection-of-150-awesome-portfolios
