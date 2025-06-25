@@ -18,6 +18,7 @@ sidebar_position: 6
 - [mcp server in csharp](https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp)
 - [mcp.so Git Repo](https://github.com/chatmcp/mcp-directory)
 - [mcp.so Site](https://mcp.so/)
+- [Best MCPs](https://medium.com/data-science-in-your-pocket/best-mcp-servers-you-should-know-019226d01bca)
 
 ### Playwright MCP
 
