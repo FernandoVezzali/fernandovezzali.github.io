@@ -28,6 +28,7 @@ sidebar_position: 6
 
 ## AI Reference Material
 
+- [Prompt collection](https://prompts.chat/)
 - https://smithery.ai/server/@ErickWendel/erickwendel-contributions-mcp
 - https://github.com/ErickWendel/erickwendel-contributions-mcp
 - https://www.youtube.com/watch?v=6g2jAFhZekw
