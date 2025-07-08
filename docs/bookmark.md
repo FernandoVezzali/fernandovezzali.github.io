@@ -48,3 +48,21 @@ sidebar_position: 6
 
 ## Portfolios
 - https://masri.blog/Blog/Coding/Potfolios/Collection-of-150-awesome-portfolios
+
+## Cool repos
+- https://github.com/GokuMohandas/Made-With-ML
+- https://github.com/eriklindernoren/ML-From-Scratch
+- https://github.com/rasbt/LLMs-from-scratch
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+- https://github.com/papers-we-love/papers-we-love
+- https://github.com/btw-so/open-source-alternatives
+- https://github.com/public-apis/public-apis
+- https://github.com/donnemartin/system-design-primer
+- https://github.com/kilimchoi/engineering-blogs
+- https://github.com/ossu/computer-science
+- https://github.com/kamranahmedse/developer-roadmap
+- https://github.com/EbookFoundation/free-programming-books
+- https://github.com/ripienaar/free-for-dev
+- https://github.com/codecrafters-io/build-your-own-x
+- https://github.com/thealgorithms
+- https://github.com/sindresorhus/awesome
