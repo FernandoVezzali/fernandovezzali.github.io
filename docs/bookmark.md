@@ -49,6 +49,10 @@ sidebar_position: 6
 ## Portfolios
 - https://masri.blog/Blog/Coding/Potfolios/Collection-of-150-awesome-portfolios
 
+## SelfHost
+- [Pangolin - reverse proxy](https://github.com/fosrl/pangolin)
+- [Tinyauth - auth middleware](https://github.com/steveiliop56/tinyauth)
+
 ## Cool repos
 - https://github.com/GokuMohandas/Made-With-ML
 - https://github.com/eriklindernoren/ML-From-Scratch
