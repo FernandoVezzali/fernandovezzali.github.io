@@ -38,6 +38,7 @@ sidebar_position: 6
 - https://www.adhamdannaway.com/blog/design-systems/design-system-examples
 - https://www.reactbits.dev/
 - [10 System Design Concepts](https://medium.com/javarevisited/10-system-design-concepts-you-must-master-before-your-next-sde-interview-with-resources-4ddea18ac2b9)
+- [30 System Design Concepts](https://medium.com/algomaster-io/system-design-was-hard-until-i-learned-these-30-concepts-78042ff99cae)
 
 ## Security
 - https://tigerabrodi.blog/how-to-store-external-api-keys-securely
