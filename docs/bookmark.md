@@ -12,8 +12,8 @@ Prerequisite requirements needed to make the most of the experience:
 - Probability Theory: You should be familiar with basic probability distributions (Continuous, Gaussian, Bernoulli, etc.) and be able to define concepts for both continuous and discrete random variables: Expectation, independence, probability distribution functions, and cumulative distribution functions.
 
 ### Stanford AI Course Links
-- [https://online.stanford.edu/programs/artificial-intelligence-professional-program](stanford program)
-- [https://online.stanford.edu/programs/artificial-intelligence-professional-program](stanford courses)
+- [stanford program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
+- [stanford courses](https://online.stanford.edu/programs/artificial-intelligence-professional-program#program-courses)
 
 ## AI Related
 
