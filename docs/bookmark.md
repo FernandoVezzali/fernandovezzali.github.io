@@ -4,6 +4,17 @@ sidebar_position: 6
 
 # Bookmark
 
+## Stanford AI Courses
+Prerequisite requirements needed to make the most of the experience:
+
+- Proficiency in Python: Coding assignments will be in Python. Some assignments will require familiarity with basic Linux command line workflows.
+- College Calculus and Linear Algebra: You should be comfortable taking (multivariable) derivatives and understand matrix/vector notation and operations.
+- Probability Theory: You should be familiar with basic probability distributions (Continuous, Gaussian, Bernoulli, etc.) and be able to define concepts for both continuous and discrete random variables: Expectation, independence, probability distribution functions, and cumulative distribution functions.
+
+### Stanford AI Course Links
+- [https://online.stanford.edu/programs/artificial-intelligence-professional-program](stanford program)
+- [https://online.stanford.edu/programs/artificial-intelligence-professional-program](stanford courses)
+
 ## AI Related
 
 - [Anthropic](https://www.anthropic.com/)
